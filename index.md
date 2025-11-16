@@ -4,8 +4,11 @@
 ---
 
 📍 Seinäjoki, Suomi  
+
 📧 viljo_87@hotmail.com  
+
 🔗 LinkedIn: https://www.linkedin.com/in/ville-ristil%C3%A4-820973277  
+
 📅 Saatavilla: Kyllä  
 
 ---
