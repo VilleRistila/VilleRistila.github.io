@@ -1,5 +1,7 @@
 #  Ville Ristilä
-### Reporting Analyst | BI-raportointi & Data Engineering
+### Reporting analyst | BI-raportointi & Data Engineering
+
+---
 
 📍 Seinäjoki, Suomi  
 📧 viljo_87@hotmail.com  
