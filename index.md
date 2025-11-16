@@ -16,11 +16,6 @@
 
 ---
 
-## 🚀 Profiili
-
-Tavoitteellinen Reporting Analyst ja Data Engineer, joka hallitsee koko datan elinkaaren ETL-prosesseista valmiisiin analytiikkaratkaisuihin. Kehitän luotettavia raportointi- ja data-alustoja liiketoiminnan päätöksenteon tueksi. Microsoft-teknologiat, Power BI ja Azure ovat vahvin osaamisalueeni.
-
----
 
 ## 💼 Työkokemus
 
@@ -44,9 +39,6 @@ Keskeisiä saavutuksia ja projekteja:
 - **Konsulttiyhteistyön kilpailutus**  
   Tarjoajien kartoitus ja suositukset johdolle
 
-- **Palvelinvarmistukset ja datansiirrot**  
-  Raporttipakettien migraatiot ja palvelinoptimoinnit
-
 - **D365 GoLive -projektit (Saksa & Suomi)**  
   Tuki siirtymäprosessissa AX/Mtrack → D365
 
@@ -59,7 +51,7 @@ Keskeisiä saavutuksia ja projekteja:
 ### Myyjä & Osastonvastaava (Esimiestyö) — Etelä-Pohjanmaan Osuuskauppa  
 **01/2012 – 04/2022**
 
-- Osaston vastuu ja tilaukset (liha, leikkeleet, einekset)
+- Osastonvastaava ja tilausvastaava (liha-, leikkele-, ja einesosastot)
 - Perehdytys ja esimiestyö **2015–2020**
 - Koulutukset:
   - Jollas Instituutti → Esimiesvalmennus
@@ -82,7 +74,7 @@ Keskeisiä saavutuksia ja projekteja:
 **Insinööri (AMK), Ohjelmistotekniikka** — Centria AMK  
 _Valmistuminen 12/2025_
 
-**Tradenomi (BBA), Liiketalous & Tietojenkäsittely** — SeAMK & Hannover Fachhochschule  
+**Tradenomi & (BBA), Liiketalous & Tietojenkäsittely** — SeAMK & Hannover Fachhochschule  
 _Valmistunut 12/2012_
 
 **Ylioppilas, luonnontieteet** — Seinäjoen lukio  
@@ -93,14 +85,14 @@ _2006_
 ## 🧠 Osaaminen
 
 ### Data & BI
-- Power BI, DAX, M, RS-raportointi  
+- Power Platform, DAX, M, RS-raportointi  
 - ETL ja data-arkkitehtuuri  
 - SQL & relaatiotietokannat  
 - Azure Data Factory & Fabric  
 
 ### Ohjelmointi
 - 💻 Käytännön osaaminen: SQL, DAX, VBA, M  
-- 📚 Opiskeltu: Python, Java, Kotlin, C#, C++, JavaScript, HTML5, CSS  
+- 📚 Opinnot: Python, Java, Kotlin, C#, C++, JavaScript, HTML5, CSS  
 - **Opinnäytetyö:** Web-ohjaussovellus (Python+Flask, HTML5, JS)
 
 ### Microsoft-ekosysteemi
@@ -124,7 +116,7 @@ Azure SQL, Data Lake, Synapse, SSIS, SSAS, SSRS, Visual Studio, Power Platform, 
 ---
 
 ## 🧩 Projektit
-*(Lisätään esim. opinnäytetyö/GitHub-projekteja kun jaat linkit)*
+*(Lisätään projekteja myöhemmin)*
 
 ---
 
