@@ -1,136 +1,124 @@
-## <Ville Ristilä> web-tehtävä
+# 🙋‍♂️ Ville Ristilä
+### Reporting Analyst | BI-raportointi & Data Engineering
 
+📍 Seinäjoki, Suomi  
+📧 viljo_87@hotmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ville-ristil%C3%A4-820973277  
+📅 Saatavilla: Kyllä  
+![Profiilikuva](https://media.licdn.com/dms/image/v2/D4D03AQG6OpH-myi3xw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684576007127?e=1764806400&v=beta&t=kyumv_H-wELz2ap3YngoJ2kAbo2SCMNZwTIOd_wNjUg)
 
-## **--> Italics and Bold**
+---
 
-Writing in Markdown is _not_ that hard!
+## 🚀 Profiili
 
-I **will** complete these lessons!
+Tavoitteellinen Reporting Analyst ja Data Engineer, joka hallitsee koko datan elinkaaren ETL-prosesseista valmiisiin analytiikkaratkaisuihin. Kehitän luotettavia raportointi- ja data-alustoja liiketoiminnan päätöksenteon tueksi. Microsoft-teknologiat, Power BI ja Azure ovat vahvin osaamisalueeni.
 
-"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
+---
 
-If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
+## 💼 Työkokemus
 
-## **--> Headers**
+### Reporting Analyst — MSK Group  
+**05/2022 – nykyinen**
 
-# Header one
-## Header two
-### Header three
-#### Header four
-##### Header five
-###### Header six
+Keskeisiä saavutuksia ja projekteja:
 
-#### Colombian Symbolism in _One Hundred Years of Solitude_
-Here's some words about the book _One Hundred Years..._.
+- **Service Desk -alustan käyttöönotto**  
+  Toimin yhteyshenkilönä palveluntarjoajan ja konsernin välillä, koulutin käyttäjiä ja rakensin ohjeistuksia SharePointiin
 
-## **--> Links**
+- **Data-integraatiot Windchillistä**  
+  Toteutin integraatiomallin Windchillistä Azure SQL -tietokantaan (Azure Data Factory, Microsoft Fabric)
 
-[Search for it.](https://www.google.com)
+- **Raportoinnin ohjausryhmän jäsen**  
+  Kehitin data-arkkitehtuuria ja raportointia johdon päätöksenteon tueksi
 
-[You're **really, really** going to want to see this.](https://www.dailykitten.com)
+- **iConnect -näyttöjärjestelmä**  
+  Power BI -raporttien näyttö konsernin mediascreeneillä
 
-#### The Latest News from [the BBC](https://www.bbc.com/news)
+- **Konsulttiyhteistyön kilpailutus**  
+  Tarjoajien kartoitus ja suositukset johdolle
 
-Do you want to [see something fun][a fun place]?
+- **Palvelinvarmistukset ja datansiirrot**  
+  Raporttipakettien migraatiot ja palvelinoptimoinnit
 
-Well, do I have [the website for you][another fun place]!
+- **D365 GoLive -projektit (Saksa & Suomi)**  
+  Tuki siirtymäprosessissa AX/Mtrack → D365
 
-[a fun place]:https://www.zombo.com
-[another fun place]: https://www.stumbleupon.com
+- **Raportointikehitys**
+  - RS-raportit ja Power BI -toteutukset
+  - Talouden, myynnin ja operatiivisen toiminnan analytiikka
 
-## **--> Images**
+---
 
-![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
+### Myyjä & Osastonvastaava (Esimiestyö) — Etelä-Pohjanmaan Osuuskauppa  
+**01/2012 – 04/2022**
 
-![Black cat][Black]
+- Osaston vastuu ja tilaukset (liha, leikkeleet, einekset)
+- Perehdytys ja esimiestyö **2015–2020**
+- Koulutukset:
+  - Jollas Instituutti → Esimiesvalmennus
+  - Eepee → Esimieskoulutus
 
-![Orange cat][Orange]
+---
 
-[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+### Pakkaus & tuotanto — Vaasan Oy Leipomo  
+**06/2006 – 07/2010**
 
-[Orange]: https://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
+- Pakkaus, lähettämö, vastaanotto
+- Osastonvastuu ja huoltotoimet
+- Uusien työntekijöiden perehdytys
+- Alkutaikinantekijä
 
+---
 
-## **--> Blockquotes**
-I read this interesting quote the other day:
->"Her eyes had called him and his soul had leaped at the call. To live, to err, to fall, to triumph, to recreate life out of life!"
+## 🎓 Koulutus
 
->Once upon a time and a very good time it was there was a moocow coming down along the road and this moocow that was coming down along the road met a nicens little boy named baby tuckoo...
->
->His father told him that story: his father looked at him through a glass: he had a hairy face.
->
->He was baby tuckoo. The moocow came down the road where Betty Byrne lived: she sold lemon platt.
+**Insinööri (AMK), Ohjelmistotekniikka** — Centria AMK  
+_Valmistuminen 12/2025_
 
->He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
+**Tradenomi (BBA), Liiketalous & Tietojenkäsittely** — SeAMK & Hannover Fachhochschule  
+_Valmistunut 12/2012_
 
-## **--> Lists**
-* Flour
-* Cheese
-* Tomatoes
+**Ylioppilas, luonnontieteet** — Seinäjoen lukio  
+_2006_
 
-1. Cut the cheese
-2. Slice the tomatoes
-3. Rub the tomatoes in flour
+---
 
-* Azalea (_Ericaceae Rhododendron_)
-* Chrysanthemum (_Anthemideae Chrysanthemum_)
-* Dahlia (_Coreopsideae Dahlia_)
+## 🧠 Osaaminen
 
-* Calculus
-  * A professor
-  * Has no hair
-  * Often wears green
-* Castafiore
-  * An opera singer
-  * Has white hair
-  * Is possibly mentally unwell
+### Data & BI
+- Power BI, DAX, M, RS-raportointi  
+- ETL ja data-arkkitehtuuri  
+- SQL & relaatiotietokannat  
+- Azure Data Factory & Fabric  
 
-1. Cut the cheese
-  
-   Make sure that the cheese is cut into little triangles.
+### Ohjelmointi
+- 💻 Käytännön osaaminen: SQL, DAX, VBA, M  
+- 📚 Opiskeltu: Python, Java, Kotlin, C#, C++, JavaScript, HTML5, CSS  
+- **Opinnäytetyö:** Web-ohjaussovellus (Python+Flask, HTML5, JS)
 
-2. Slice the tomatoes
-  
-   Be careful when holding the knife.
+### Microsoft-ekosysteemi
+Azure SQL, Data Lake, Synapse, SSIS, SSAS, SSRS, Visual Studio, Power Platform, Dynamics AX/NAV/D365, Windows Server, O365
 
-   For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
+### Kielitaito
+- 🇫🇮 Suomi — erinomainen  
+- 🇬🇧 Englanti — erinomainen  
+- 🇸🇪 Ruotsi & 🇩🇪 saksa — YO-tutkinto, hyvä perusta
 
-## **--> Paragraphs**
-We pictured the meek mild creatures where  
-They dwelt in their strawy pen,  
-Nor did it occur to one of us there  
-To doubt they were kneeling then.
+---
 
-1. Crack three eggs over a bowl.  
- Now, you're going to want to crack the eggs in such a way that you don't make a mess.  
- If you _do_ make a mess, use a towel to clean it up!
+## 🏆 Sertifikaatit
 
-2. Pour a gallon of milk into the bowl.  
- Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
+- Cisco — **Junior Cybersecurity Analyst** (12/2024)  
+- Cisco — **Introduction to Cybersecurity** (11/2024)  
+- Google — **Data Analytics Certificate** (07/2024)  
+- AWS Academy — **Cloud Architecting** (04/2024)  
+- AWS Academy — **Cloud Foundations** (02/2024)
 
+---
 
-## **Congratulations!**
+## 🧩 Projektit
+*(Lisätään esim. opinnäytetyö/GitHub-projekteja kun jaat linkit)*
 
-You’ve completed all the lessons!
+---
 
-Believe it or not, we’ve only just begun exploring what can be accomplished with Markdown. There are many “extended” implementations of Markdown that support formats like tables, definition lists, footnotes, and more. Because they’re non-standard, they’re not essential to learning the basics, as we’ve introduced here.
-
-If you’d like to know more about these Markdown implementations, you’re welcome to explore any number of other Markdown apps and tutorials. Here are just a few:
-
-[https://daringfireball.net/projects/markdown/](https://daringfireball.net/projects/markdown/)
-
-[https://spec.commonmark.org/dingus/](https://spec.commonmark.org/dingus/)
-
-[https://johnmacfarlane.net/babelmark2/faq.html](https://johnmacfarlane.net/babelmark2/faq.html)
-
-[https://www.markdownguide.org](https://www.markdownguide.org)
-
-[https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/](https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1/)
-
-[http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/](http://idratherbewriting.com/2013/06/04/exploring-markdown-in-collaborative-authoring-to-publishing-workflows/)
-
-[https://en.wikipedia.org/wiki/Markdown#Example](https://en.wikipedia.org/wiki/Markdown#Example)
-
-[https://docs.gitlab.com/ee/user/markdown.html](https://docs.gitlab.com/ee/user/markdown.html)
-
-[https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+© 2025 Ville Ristilä — Online CV
