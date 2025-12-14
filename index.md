@@ -12,7 +12,8 @@
 
 ---
 
-![Profiilikuva](images/Ville MV.jpg)
+![Profiilikuva](<Ville Ristilä.jpg>)
+
 
 
 
