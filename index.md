@@ -120,7 +120,7 @@ Azure SQL, Data Lake, Synapse, SSIS, SSAS, SSRS, Visual Studio, Power Platform, 
 ---
 
 ## 🧩 Projektit
-https://github.com/VilleRistila/ClientAppForHeatPump
+https://github.com/VilleRistila/ClientAppForHeatPump (private)
 
 ---
 
