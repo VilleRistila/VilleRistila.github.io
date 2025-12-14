@@ -72,7 +72,7 @@ Keskeisiä saavutuksia ja projekteja:
 ## 🎓 Koulutus
 
 **Insinööri (AMK), Ohjelmistotekniikka** — Centria AMK  
-_Valmistuminen 12/2025_
+_Valmistuminen 19.12.2025_
 
 **Tradenomi & (BBA), Liiketalous & Tietojenkäsittely** — SeAMK & Hannover Fachhochschule  
 _Valmistunut 12/2012_
