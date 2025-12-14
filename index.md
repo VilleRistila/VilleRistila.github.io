@@ -24,7 +24,7 @@
 
 ## 💼 Työkokemus
 
-💼 ### Reporting Analyst — MSK Group  
+💼 Reporting Analyst — MSK Group  
 **05/2022 – nykyinen**
 
 Keskeisiä saavutuksia ja projekteja:
@@ -53,7 +53,7 @@ Keskeisiä saavutuksia ja projekteja:
 
 ---
 
-💼 ### Myyjä & Osastonvastaava (Esimiestyö) — Etelä-Pohjanmaan Osuuskauppa  
+💼 Myyjä & Osastonvastaava (Esimiestyö) — Etelä-Pohjanmaan Osuuskauppa  
 **01/2012 – 04/2022**
 
 - Osastonvastaava ja tilausvastaava (liha-, leikkele-, ja einesosastot)
@@ -64,7 +64,7 @@ Keskeisiä saavutuksia ja projekteja:
 
 ---
 
-💼 ### Pakkaus & tuotanto — Vaasan Oy Leipomo  
+💼 Pakkaus & tuotanto — Vaasan Oy Leipomo  
 **06/2006 – 07/2010**
 
 - Pakkaus, lähettämö, vastaanotto
