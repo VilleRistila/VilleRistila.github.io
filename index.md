@@ -12,7 +12,7 @@
 
 ---
 
-![Profiilikuva](<images/Ville MV.jpg>)
+![Profiilikuva](<[images/Ville MV.jpg](https://villeristila.github.io/images/ville-mv.jpg)>)
 
 
 ---
