@@ -24,7 +24,7 @@
 
 ## 💼 Työkokemus
 
-### Reporting Analyst — MSK Group  
+💼 ### Reporting Analyst — MSK Group  
 **05/2022 – nykyinen**
 
 Keskeisiä saavutuksia ja projekteja:
@@ -53,7 +53,7 @@ Keskeisiä saavutuksia ja projekteja:
 
 ---
 
-### Myyjä & Osastonvastaava (Esimiestyö) — Etelä-Pohjanmaan Osuuskauppa  
+💼 ### Myyjä & Osastonvastaava (Esimiestyö) — Etelä-Pohjanmaan Osuuskauppa  
 **01/2012 – 04/2022**
 
 - Osastonvastaava ja tilausvastaava (liha-, leikkele-, ja einesosastot)
@@ -64,7 +64,7 @@ Keskeisiä saavutuksia ja projekteja:
 
 ---
 
-### Pakkaus & tuotanto — Vaasan Oy Leipomo  
+💼 ### Pakkaus & tuotanto — Vaasan Oy Leipomo  
 **06/2006 – 07/2010**
 
 - Pakkaus, lähettämö, vastaanotto
@@ -76,13 +76,13 @@ Keskeisiä saavutuksia ja projekteja:
 
 ## 🎓 Koulutus
 
-**Insinööri (AMK), Ohjelmistotekniikka** — Centria AMK  
+🎓 **Insinööri (AMK), Ohjelmistotekniikka** — Centria AMK  
 _Valmistuminen 19.12.2025_
 
-**Tradenomi & (BBA), Liiketalous & Tietojenkäsittely** — SeAMK & Hannover Fachhochschule  
+🎓 **Tradenomi & (BBA), Liiketalous & Tietojenkäsittely** — SeAMK & Hannover Fachhochschule  
 _Valmistunut 12/2012_
 
-**Ylioppilas, luonnontieteet** — Seinäjoen lukio  
+🎓 **Ylioppilas, luonnontieteet** — Seinäjoen lukio  
 _2006_
 
 ---
@@ -90,38 +90,38 @@ _2006_
 ## 🧠 Osaaminen
 
 ### Data & BI
-- Power Platform, DAX, M, RS-raportointi  
-- ETL ja data-arkkitehtuuri  
-- SQL & relaatiotietokannat  
-- Azure Data Factory & Fabric  
+🧠 Power Platform, DAX, M, RS-raportointi  
+🧠 ETL ja data-arkkitehtuuri  
+🧠 SQL & relaatiotietokannat  
+🧠 Azure Data Factory & Fabric  
 
 ### Ohjelmointi
-- 💻 Käytännön osaaminen: SQL, DAX, VBA, M  
-- 📚 Opinnot: Python, Java, Kotlin, C#, C++, JavaScript, HTML5, CSS  
-- **Opinnäytetyö:** Web-ohjaussovellus (Python+Flask, HTML5, JS)
+💻 Käytännön osaaminen: SQL, DAX, VBA, M  
+📚 Opinnot: Python, Java, Kotlin, C#, C++, JavaScript, HTML5, CSS  
+🎓 Opinnäytetyö: Web-ohjaussovellus (Python+Flask, HTML5, JS)
 
 ### Microsoft-ekosysteemi
-Azure SQL, Data Lake, Synapse, SSIS, SSAS, SSRS, Visual Studio, Power Platform, Dynamics AX/NAV/D365, Windows Server, O365
+💻 Azure SQL, Data Lake, Synapse, SSIS, SSAS, SSRS, Visual Studio, Power Platform, Dynamics AX/NAV/D365, Windows Server, O365
 
 ### Kielitaito
-- 🇫🇮 Suomi — erinomainen  
-- 🇬🇧 Englanti — erinomainen  
-- 🇸🇪 Ruotsi & 🇩🇪 saksa — YO-tutkinto, hyvä perusta
+🎓 🇫🇮 Suomi — erinomainen  
+🎓 🇬🇧 Englanti — erinomainen  
+🎓 🇸🇪 Ruotsi & 🇩🇪 saksa — YO-tutkinto, hyvä perusta
 
 ---
 
 ## 🏆 Sertifikaatit
 
-- Cisco — **Junior Cybersecurity Analyst** (12/2024)  
-- Cisco — **Introduction to Cybersecurity** (11/2024)  
-- Google — **Data Analytics Certificate** (07/2024)  
-- AWS Academy — **Cloud Architecting** (04/2024)  
-- AWS Academy — **Cloud Foundations** (02/2024)
+🎓 Cisco — **Junior Cybersecurity Analyst** (12/2024)  
+🎓 Cisco — **Introduction to Cybersecurity** (11/2024)  
+🎓 Google — **Data Analytics Certificate** (07/2024)  
+🎓 AWS Academy — **Cloud Architecting** (04/2024)  
+🎓 AWS Academy — **Cloud Foundations** (02/2024)
 
 ---
 
 ## 🧩 Projektit
-https://github.com/VilleRistila/ClientAppForHeatPump (private)
+🎓 https://github.com/VilleRistila/ClientAppForHeatPump (private)
 
 ---
 
