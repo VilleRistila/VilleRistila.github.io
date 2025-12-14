@@ -12,7 +12,8 @@
 
 ---
 
-![Profiilikuva](<Ville Ristilä.jpg>)
+<img src="Ville Ristilä.jpg" alt="Profiilikuva" style="width:33%; height:auto;">
+
 
 
 
