@@ -12,7 +12,8 @@
 
 ---
 
-![Profiilikuva](<[images/Ville MV.jpg]([https://villeristila.github.io/images/ville-mv.jpg](https://github.com/VilleRistila/VilleRistila.github.io))>)
+![Profiilikuva](images/Ville MV.jpg)
+
 
 
 ---
