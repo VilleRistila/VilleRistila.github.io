@@ -12,7 +12,8 @@
 
 ---
 
-![Profiilikuva](https://media.licdn.com/dms/image/v2/D4D03AQG6OpH-myi3xw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1684576007127?e=1764806400&v=beta&t=kyumv_H-wELz2ap3YngoJ2kAbo2SCMNZwTIOd_wNjUg)
+![Profiilikuva](<images/Ville MV.jpg>)
+
 
 ---
 
