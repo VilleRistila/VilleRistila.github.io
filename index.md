@@ -120,7 +120,7 @@ Azure SQL, Data Lake, Synapse, SSIS, SSAS, SSRS, Visual Studio, Power Platform, 
 ---
 
 ## 🧩 Projektit
-*(Poistoilmalämpöpumpun selainpohjainen ohjaussovellus)*(https://github.com/VilleRistila/ClientAppForHeatPump)
+*(Poistoilmalämpöpumpun selainpohjainen ohjaussovellus -->)*(https://github.com/VilleRistila/ClientAppForHeatPump)
 
 ---
 
