@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ville Ristilä – IT & Data Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header class="header">
+    <div class="container nav">
+      <div class="logo">Ville<span>Ristilä</span></div>
+      <nav class="menu">
+        <a href="#home" class="active">Home</a>
+        <a href="#about">About</a>
+        <a href="#skills">Skills</a>
+        <a href="#portfolio">Portfolio</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+      </nav>
+      <a href="#contact" class="btn btn-small">Hire Me</a>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- HERO -->
+    <section class="hero" id="home">
+      <div class="container hero-grid">
+        <div class="hero-text">
+          <p class="eyebrow">I AM <span>IT & Data Specialist</span></p>
+          <h1>Rakennan selkeitä, moderneja ja tehokkaita digiratkaisuja.</h1>
+
+          <p class="lead">
+            Olen IT‑insinööri ja datan, automaation sekä raportoinnin asiantuntija.
+            Työskentelen teknologian ja liiketoiminnan rajapinnassa: rakennan datamalleja,
+            automatisoin prosesseja ja kehitän ratkaisuja, jotka tekevät työstä sujuvampaa.
+          </p>
+
+          <div class="hero-actions">
+            <a href="#portfolio" class="btn">Katso portfolio</a>
+            <a href="#contact" class="btn btn-outline">Ota yhteyttä</a>
+          </div>
+
+          <div class="stats">
+            <div class="stat">
+              <strong>50+</strong>
+              <span>Projects</span>
+            </div>
+            <div class="stat">
+              <strong>10+</strong>
+              <span>Years Experience</span>
+            </div>
+            <div class="stat">
+              <strong>20+</strong>
+              <span>Teams Supported</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="hero-card">
+          <div class="hero-image-wrap">
+            <div class="glow glow-1"></div>
+            <div class="glow glow-2"></div>
+            <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80" alt="Profiilikuva">
+          </div>
+          <div class="floating-badge badge-left">Data</div>
+          <div class="floating-badge badge-right">Automation</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="section" id="about">
+      <div class="container about-grid">
+        <div class="about-photo">
+          <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=900&q=80" alt="Työskentelykuva">
+        </div>
+
+        <div class="about-text">
+          <p class="section-tag">About Me</p>
+          <h2>IT‑insinööri, joka yhdistää datan, automaation ja teknisen ongelmanratkaisun.</h2>
+
+          <p>
+            Olen erikoistunut datankäsittelyyn, raportointiin, ETL/ELT‑prosesseihin,
+            automaatioon ja teknisten kokonaisuuksien kehittämiseen. Hallitsen
+            Power BI:n, SQL:n, Pythonin, PowerShellin sekä Dynamics AX/D365:n
+            datarakenteet ja integraatiot.
+          </p>
+
+          <p>
+            Työskentelen käytännönläheisesti ja ratkaisukeskeisesti — selkeytän prosesseja,
+            parannan datan laatua ja rakennan ratkaisuja, jotka oikeasti helpottavat arkea.
+          </p>
+
+          <a href="#services" class="btn">Lue lisää</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- PORTFOLIO -->
+    <section class="section" id="portfolio">
+      <div class="container">
+        <p class="section-tag">Portfolio</p>
+        <h2 class="section-title">Valikoituja projekteja</h2>
+
+        <div class="portfolio-grid">
+
+          <article class="project-card">
+            <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" alt="Projekti 1">
+            <div class="project-body">
+              <h3>Power BI -raportointikokonaisuuden modernisointi</h3>
+              <p>Rakensin uusia datamalleja, DAX‑laskentoja ja visuaalisia raportteja
+              liiketoiminnan päätöksenteon tueksi.</p>
+              <a href="#">Avaa projekti</a>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80" alt="Projekti 2">
+            <div class="project-body">
+              <h3>Dynamics AX & D365 datamallien kehitys</h3>
+              <p>Suunnittelin ja toteutin ETL/ELT‑prosessit sekä tietomallit
+              raportointia ja analytiikkaa varten.</p>
+              <a href="#">Avaa projekti</a>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80" alt="Projekti 3">
+            <div class="project-body">
+              <h3>Automaatioratkaisut Pythonilla ja PowerShellillä</h3>
+              <p>Automatisoin toistuvia työvaiheita, datan käsittelyä ja raportointia
+              vähentäen manuaalista työtä ja virheitä.</p>
+              <a href="#">Avaa projekti</a>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" alt="Projekti 4">
+            <div class="project-body">
+              <h3>IT‑ratkaisujen suunnittelu ja kehitys</h3>
+              <p>Rakensin teknisiä ratkaisuja, jotka yhdistävät datan, automaation
+              ja liiketoiminnan tarpeet.</p>
+              <a href="#">Avaa projekti</a>
+            </div>
+          </article>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- SERVICES -->
+    <section class="section" id="services">
+      <div class="container">
+        <p class="section-tag">Services</p>
+        <h2 class="section-title">Mitä voin tehdä</h2>
+
+        <div class="services-grid">
+          <div class="service-card">
+            <h3>Data & Reporting</h3>
+            <p>Power BI, SQL, DAX, datamallit, ETL/ELT, raportointikokonaisuudet.</p>
+          </div>
+
+          <div class="service-card">
+            <h3>Automation</h3>
+            <p>Python- ja PowerShell‑automaatio, työnkulkujen tehostaminen,
+            toistuvien tehtävien automatisointi.</p>
+          </div>
+
+          <div class="service-card">
+            <h3>IT Development</h3>
+            <p>Tekniset ratkaisut, integraatiot, datan käsittely, järjestelmien
+            kehittäminen ja ongelmanratkaisu.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- SKILLS -->
+    <section class="section" id="skills">
+      <div class="container skills-grid">
+        <div>
+          <p class="section-tag">Skills</p>
+          <h2 class="section-title">Osaaminen</h2>
+
+          <div class="skill">
+            <span>Power BI / DAX</span>
+            <div class="bar"><div style="width: 90%"></div></div>
+          </div>
+
+          <div class="skill">
+            <span>SQL (T‑SQL)</span>
+            <div class="bar"><div style="width: 85%"></div></div>
+          </div>
+
+          <div class="skill">
+            <span>Python (data & automaatio)</span>
+            <div class="bar"><div style="width: 80%"></div></div>
+          </div>
+
+          <div class="skill">
+            <span>ETL / ELT (Dynamics AX & D365)</span>
+            <div class="bar"><div style="width: 75%"></div></div>
+          </div>
+
+          <div class="skill">
+            <span>PowerShell</span>
+            <div class="bar"><div style="width: 70%"></div></div>
+          </div>
+
+          <div class="skill">
+            <span>IT‑ongelmanratkaisu & tekninen tuki</span>
+            <div class="bar"><div style="width: 95%"></div></div>
+          </div>
+        </div>
+
+        <!-- CONTACT -->
+        <div class="contact-card" id="contact">
+          <p class="section-tag">Contact</p>
+          <h2 class="section-title">Ota yhteyttä</h2>
+
+          <form class="contact-form">
+            <input type="text" placeholder="Nimi" />
+            <input type="email" placeholder="Sähköposti" />
+            <textarea rows="5" placeholder="Viesti"></textarea>
+            <button type="submit" class="btn">Lähetä viesti</button>
+          </form>
+        </div>
+      </div>
+    </section>
+
+  </main>
+</body>
+</html>
