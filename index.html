@@ -219,55 +219,26 @@
           </div>
         </div>
 
-        <!-- CONTACT -->
+        <!-- CONTACT (TEXT VERSION) -->
         <div class="contact-card" id="contact">
           <p class="section-tag">Contact</p>
           <h2 class="section-title">Ota yhteyttä</h2>
 
-          <form id="contact-form" class="contact-form">
-            <input type="text" name="nimi" placeholder="Nimi" required />
-            <input type="email" name="sahkoposti" placeholder="Sähköposti" required />
-            <textarea name="viesti" rows="5" placeholder="Viesti" required></textarea>
-            <button type="submit" class="btn">Lähetä viesti</button>
-          </form>
-
-          <p id="form-status" style="margin-top:15px;"></p>
+          <div class="contact-info">
+            <p><strong>Sähköposti:</strong> ville.ristila@example.com</p>
+            <p><strong>Puhelin:</strong> 040 123 4567</p>
+            <p><strong>LinkedIn:</strong> 
+              <a href="https://www.linkedin.com/in/ville-ristilä-820973277" target="_blank">
+                linkedin.com/in/ville-ristilä
+              </a>
+            </p>
+            <p><strong>Sijainti:</strong> Seinäjoki, Suomi</p>
+          </div>
         </div>
       </div>
     </section>
 
   </main>
-
-  <!-- EMAILJS SCRIPT -->
-  <script src="https://cdn.jsdelivr.net/npm/emailjs-com@3/dist/email.min.js"></script>
-  <script>
-    (function() {
-      emailjs.init("20WOUg5gImZu97DuY");
-    })();
-
-    const form = document.getElementById("contact-form");
-    const status = document.getElementById("form-status");
-
-    form.addEventListener("submit", function(e) {
-      e.preventDefault();
-
-      status.textContent = "Lähetetään…";
-
-      emailjs.send("service_samghlh", "template_scrrt6g", {
-        nimi: form.nimi.value,
-        sahkoposti: form.sahkoposti.value,
-        viesti: form.viesti.value
-      })
-      .then(() => {
-        status.textContent = "Viesti lähetetty onnistuneesti!";
-        form.reset();
-      })
-      .catch((error) => {
-        status.textContent = "Virhe lähetyksessä. Tarkista asetukset.";
-        console.error("EmailJS error:", error);
-      });
-    });
-  </script>
 
 </body>
 </html>
