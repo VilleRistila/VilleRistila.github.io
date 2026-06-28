@@ -22,16 +22,7 @@
         <a href="#services">Services</a>
         <a href="#contact">Contact</a>
       </nav>
-      <span id="counter" class="btn btn-small"></span>
-
-<script>
-fetch('https://api.countapi.xyz/hit/villeristila-portfolio/visits')
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById('counter').innerText = "Kävijöitä: " + data.value;
-  });
-</script>
-
+      <a href="#contact" class="btn btn-small">Hire Me</a>
     </div>
   </header>
 
