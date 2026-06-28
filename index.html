@@ -14,6 +14,7 @@
   <header class="header">
     <div class="container nav">
       <div class="logo">Ville<span>Ristilä</span></div>
+
       <nav class="menu">
         <a href="#home" class="active">Home</a>
         <a href="#about">About</a>
@@ -22,16 +23,9 @@
         <a href="#services">Services</a>
         <a href="#contact">Contact</a>
       </nav>
-      <span id="counter" class="btn btn-small"></span>
 
-<script>
-fetch('https://api.countapi.xyz/hit/villeristila-portfolio/visits')
-  .then(res => res.json())
-  .then(data => {
-    document.getElementById('counter').innerText = "Kävijöitä: " + data.value;
-  });
-</script>
-
+      <!-- KÄVIJÄLASKURI -->
+      <span id="counter" class="btn btn-small">Ladataan...</span>
     </div>
   </header>
 
@@ -228,7 +222,6 @@ fetch('https://api.countapi.xyz/hit/villeristila-portfolio/visits')
           </div>
         </div>
 
-        <!-- CONTACT (TEXT VERSION) -->
         <div class="contact-card" id="contact">
           <p class="section-tag">Contact</p>
           <h2 class="section-title">Ota yhteyttä</h2>
@@ -248,6 +241,20 @@ fetch('https://api.countapi.xyz/hit/villeristila-portfolio/visits')
     </section>
 
   </main>
+
+  <!-- KÄVIJÄLASKURI SCRIPT -->
+  <script>
+    fetch('https://api.countapi.xyz/hit/villeristila-portfolio/visits')
+      .then(res => res.json())
+      .then(data => {
+        console.log("CountAPI data:", data);
+        document.getElementById('counter').innerText = "Kävijöitä: " + data.value;
+      })
+      .catch(err => {
+        console.error("CountAPI virhe:", err);
+        document.getElementById('counter').innerText = "Kävijöitä: ei saatavilla";
+      });
+  </script>
 
 </body>
 </html>
