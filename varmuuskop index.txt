@@ -66,7 +66,7 @@
           <div class="hero-image-wrap">
             <div class="glow glow-1"></div>
             <div class="glow glow-2"></div>
-            <img src="villeristila.jpg" alt="Profiilikuva">
+            <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=900&q=80" alt="Profiilikuva">
           </div>
           <div class="floating-badge badge-left">Data</div>
           <div class="floating-badge badge-right">Automation</div>
