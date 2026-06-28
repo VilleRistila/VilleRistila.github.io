@@ -9,6 +9,7 @@
   /* Uusi yhtenäinen paletti */
   --accent: #1F2A44;   /* tumma sininen */
   --accent-2: #2DD4BF; /* turkoosi */
+  --accent-3: #0A192F; /* lisätty uusi väri → takaa muutoksen */
 
   --line: rgba(255, 255, 255, 0.12);
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
