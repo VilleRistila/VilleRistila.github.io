@@ -5,11 +5,8 @@
   --card-2: rgba(255, 255, 255, 0.09);
   --text: #f5f3ff;
   --muted: #b9b3d6;
-
-  /* Uusi yhtenäinen paletti */
-  --accent: #1F2A44;   /* tumma sininen */
-  --accent-2: #2DD4BF; /* turkoosi */
-
+  --accent: #8b5cf6;
+  --accent-2: #ec4899;
   --line: rgba(255, 255, 255, 0.12);
   --shadow: 0 20px 60px rgba(0, 0, 0, 0.45);
 }
@@ -27,8 +24,8 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   background:
-    radial-gradient(circle at top left, rgba(45, 212, 191, 0.14), transparent 30%),
-    radial-gradient(circle at top right, rgba(31, 42, 68, 0.22), transparent 28%),
+    radial-gradient(circle at top left, rgba(236, 72, 153, 0.14), transparent 30%),
+    radial-gradient(circle at top right, rgba(139, 92, 246, 0.22), transparent 28%),
     linear-gradient(180deg, #0b0913, var(--bg));
   color: var(--text);
   line-height: 1.6;
@@ -208,7 +205,7 @@ img {
   position: relative;
   border-radius: 30px;
   padding: 18px;
-  background: linear-gradient(145deg, rgba(45,212,191,0.15), rgba(31,42,68,0.18));
+  background: linear-gradient(145deg, rgba(236,72,153,0.15), rgba(139,92,246,0.18));
   border: 1px solid var(--line);
   box-shadow: var(--shadow);
   overflow: hidden;
@@ -229,7 +226,7 @@ img {
 .glow-1 {
   width: 180px;
   height: 180px;
-  background: rgba(45, 212, 191, 0.3);
+  background: rgba(236, 72, 153, 0.3);
   top: 20px;
   left: -40px;
 }
@@ -237,7 +234,7 @@ img {
 .glow-2 {
   width: 220px;
   height: 220px;
-  background: rgba(31, 42, 68, 0.35);
+  background: rgba(139, 92, 246, 0.35);
   right: -50px;
   bottom: 10px;
 }
@@ -401,8 +398,8 @@ img {
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-  border-color: rgba(45, 212, 191, 0.8);
-  box-shadow: 0 0 0 3px rgba(45, 212, 191, 0.15);
+  border-color: rgba(139, 92, 246, 0.8);
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.15);
 }
 
 @media (max-width: 980px) {
