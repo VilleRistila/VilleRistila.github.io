@@ -24,8 +24,8 @@
         <a href="#contact">Contact</a>
       </nav>
 
-      <!-- KÄVIJÄLASKURI -->
-      <span id="counter" class="btn btn-small">Ladataan...</span>
+      <!-- UUSI NAPPI -->
+      <a href="mailto:villeveikkoristila@outlook.com" class="btn btn-small">Ota yhteyttä</a>
     </div>
   </header>
 
@@ -222,18 +222,28 @@
           </div>
         </div>
 
+        <!-- CONTACT -->
         <div class="contact-card" id="contact">
           <p class="section-tag">Contact</p>
           <h2 class="section-title">Ota yhteyttä</h2>
 
           <div class="contact-info">
-            <p><strong>Sähköposti:</strong> villeveikkoristila@outlook.com</p>
+            <p><strong>Sähköposti:</strong>
+              <a href="mailto:villeveikkoristila@outlook.com" style="color: var(--accent-2);">
+                villeveikkoristila@outlook.com
+              </a>
+            </p>
+
             <p><strong>Puhelin:</strong> 050 359 6817</p>
-            <p><strong>LinkedIn:</strong> 
-              <a href="https://www.linkedin.com/in/ville-ristilä-820973277" target="_blank">
+
+            <p><strong>LinkedIn:</strong>
+              <a href="https://www.linkedin.com/in/ville-ristilä-820973277"
+                 target="_blank"
+                 style="color: var(--accent-2);">
                 linkedin.com/in/ville-ristilä
               </a>
             </p>
+
             <p><strong>Sijainti:</strong> Seinäjoki, Suomi</p>
           </div>
         </div>
@@ -241,20 +251,6 @@
     </section>
 
   </main>
-
-  <!-- KÄVIJÄLASKURI SCRIPT -->
-  <script>
-    fetch('https://api.countapi.xyz/hit/villeristila-portfolio/visits')
-      .then(res => res.json())
-      .then(data => {
-        console.log("CountAPI data:", data);
-        document.getElementById('counter').innerText = "Kävijöitä: " + data.value;
-      })
-      .catch(err => {
-        console.error("CountAPI virhe:", err);
-        document.getElementById('counter').innerText = "Kävijöitä: ei saatavilla";
-      });
-  </script>
 
 </body>
 </html>
