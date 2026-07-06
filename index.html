@@ -113,9 +113,11 @@
           <article class="project-card">
             <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80" alt="Projekti 1">
             <div class="project-body">
-              <h3>Power BI -raportointikokonaisuuden modernisointi</h3>
-              <p>Rakensin uusia datamalleja, DAX‑laskentoja ja visuaalisia raportteja
-              liiketoiminnan päätöksenteon tueksi.</p>
+              <h3>HubSpot pilvipohjaisen tietokannan datan integraatio ELT Lakehouse medallion arkkitehtuuri</h3>
+              <p>HubSpotin API:sta haetaan raakadata Fabric tietovuon avulla ja tallennetaan muokkaamattomana delta/parquet- muodossa Lakehouseen pronssikerrokseen. Sitten data
+                 puhdistetaan ja normalisoidaan ja viedään hopeakerrokseen. Seuraavaksi data mallinnetaan PowerBI- käyttöön ja tehdään faktataulut ja dimensiotaulut ja viedään kultakerrokseen.
+                 Sitten data on valmis raportille, jossa tehdään vielä omat laskennat ja mallinnukset power query- tilassa. 
+              </p>
               <a href="#">Avaa projekti</a>
             </div>
           </article>
@@ -123,9 +125,10 @@
           <article class="project-card">
             <img src="https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=900&q=80" alt="Projekti 2">
             <div class="project-body">
-              <h3>Dynamics AX & D365 datamallien kehitys</h3>
-              <p>Suunnittelin ja toteutin ETL/ELT‑prosessit sekä tietomallit
-              raportointia ja analytiikkaa varten.</p>
+              <h3>Windchill pilvipohjaisen tietokannan datan integraatio ELT Lakehouse medallion arkkitehtuuri </h3>
+              <p>Windchill API:sta haetaan raakadata Fabric tietovuon avulla ja tallennetaan muokkaamattomana delta/parquet- muodossa Lakehouseen pronssikerrokseen. Sitten data
+                 puhdistetaan ja normalisoidaan ja viedään hopeakerrokseen. Seuraavaksi data mallinnetaan PowerBI- käyttöön ja tehdään faktataulut ja dimensiotaulut ja viedään kultakerrokseen.
+                 Sitten data on valmis raportille, jossa tehdään vielä omat laskennat ja mallinnukset power query- tilassa.en.</p>
               <a href="#">Avaa projekti</a>
             </div>
           </article>
@@ -133,9 +136,11 @@
           <article class="project-card">
             <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80" alt="Projekti 3">
             <div class="project-body">
-              <h3>Automaatioratkaisut Pythonilla ja PowerShellillä</h3>
-              <p>Automatisoin toistuvia työvaiheita, datan käsittelyä ja raportointia
-              vähentäen manuaalista työtä ja virheitä.</p>
+              <h3>Microsoft dynamics AX / D365 datan integraatio ETL BYOD- tekniikkaa käyttäen</h3>
+              <p>Aluksi data tuodaan D365:sta käyttäen dynamicsin omaa työkalua Data management ja tekniikkaa BYOD- export. Data tuodaan azure sql tietokantaan ensiksi staging raw- kerrokseen,
+                 josta automaattinen ja ajastettu proseduurikoodi hakee raakadatan ja tekee siitä data warehouse- taulut jakaen ne faktatauluiksi ja dimensiotauluiksi. Tietovarastotauluista
+                 raporttinäkymät hakevat vain ja ainoastaan tarpeellisen tiedon ja ne tuodaaan powerbi- raportille import- mallisena, joita raportti suoraan lukee.
+              </p>
               <a href="#">Avaa projekti</a>
             </div>
           </article>
@@ -143,9 +148,12 @@
           <article class="project-card">
             <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80" alt="Projekti 4">
             <div class="project-body">
-              <h3>IT‑ratkaisujen suunnittelu ja kehitys</h3>
-              <p>Rakensin teknisiä ratkaisuja, jotka yhdistävät datan, automaation
-              ja liiketoiminnan tarpeet.</p>
+              <h3>Poistoilmalämpöpumpun web-pohjainen fullstack -ohjaussovellus</h3>
+              <p>Rakensin Nibe F750- laitteelle ohjaussovelluksen, jonka avulla pystyy lukemaan ja muuttamaan koneen tuottamaa dataa. Poistoilmalämpöpumppu tallentaa datan ensin palveluntarjoajan
+                 pilvipohjaiseen tietokantaan, minne tekemäni ohjaussovellus aluksi tunnistautuu ja sisälle päästyään hakee koneen tallentamaa dataa rakentamalleni koontinäytölle, mistä näkee kaiken
+                 tarvittavan. Koontinäytöltä pystyy helposti lukemaan kaikista tärkeimmät arvot ja muuttamaan muutamaa oleellista arvoa ja lopuksi näytölle on myös tuotu erilaisia custom- laskentoja,
+                 joiden avulla käyttäjä pystyy paremmin ymmärtämään Niben tuottamaa teknistä dataa ja laskentojen avulla saadaan myös automatisoitua sovelluksen datanmuutostarpeita.
+              </p>
               <a href="#">Avaa projekti</a>
             </div>
           </article>
